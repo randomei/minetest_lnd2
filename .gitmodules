@@ -234,9 +234,6 @@
 [submodule "worldmods/morelights"]
 	path = worldmods/morelights
 	url = https://github.com/random-geek/morelights.git
-[submodule "worldmods/doxy_morelights_dim"]
-	path = worldmods/doxy_morelights_dim
-	url = https://invent.kde.org/davidhurka/doxy_morelights_dim.git
 [submodule "worldmods/moreores"]
 	path = worldmods/moreores
 	url = https://github.com/minetest-mods/moreores.git
@@ -309,9 +306,6 @@
 [submodule "worldmods/simple_woodcutter"]
 	path = worldmods/simple_woodcutter
 	url = https://notabug.org/minetestia/simple_woodcutter.git
-[submodule "worldmods/skills"]
-	path = worldmods/skills
-	url = https://gitlab.com/zughy-friends-minetest/skills.git
 [submodule "worldmods/spawners"]
 	path = worldmods/spawners
 	url = https://bitbucket.org/minetest_gamers/spawners.git
@@ -360,9 +354,6 @@
 [submodule "worldmods/unifieddyes"]
 	path = worldmods/unifieddyes
 	url = https://github.com/mt-mods/unifieddyes.git
-[submodule "worldmods/i3"]
-	path = worldmods/i3
-	url = https://github.com/randomei/i3.git
 [submodule "worldmods/visible_wielditem"]
 	path = worldmods/visible_wielditem
 	url = https://github.com/appgurueu/visible_wielditem.git
@@ -402,3 +393,15 @@
 [submodule "worldmods/yl_speak_up"]
 	path = worldmods/yl_speak_up
 	url = https://gitea.your-land.de/Sokomine/yl_speak_up.git
+[submodule "worldmods/unified_inventory"]
+	path = worldmods/unified_inventory
+	url = https://github.com/minetest-mods/unified_inventory.git
+[submodule "worldmods/unified_inventory_themes"]
+	path = worldmods/unified_inventory_themes
+	url = https://gitlab.com/threehymns1/unified_inventory_themes.git
+[submodule "worldmods/unified_inventory_plus"]
+	path = worldmods/unified_inventory_plus
+	url = https://github.com/mt-mods/unified_inventory_plus.git
+[submodule "worldmods/morelights_dim"]
+	path = worldmods/morelights_dim
+	url = https://github.com/randomei/morelights_dim.git
