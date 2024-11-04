@@ -1,26 +1,110 @@
 [submodule "3d_armor"]
-	path = 3d_armor
+	path = worldmods/3d_armor
 	url = https://github.com/minetest-mods/3d_armor.git
 	branch = main
 [submodule "3d_armor_flyswim"]
-	path = 3d_armor_flyswim
+	path = worldmods/3d_armor_flyswim
 	url = https://github.com/sirrobzeroone/3d_armor_flyswim.git
 [submodule "advtrains"]
-	path = advtrains
+	path = worldmods/advtrains
 	url = https://git.bananach.space/advtrains.git
 	branch = release-2.4.6
 [submodule "advtrains_subway_ny"]
-	path = advtrains_subway_ny
+	path = worldmods/advtrains_subway_ny
 	url = https://codeberg.org/advtrains_supplemental/advtrains_subway_ny.git
 [submodule "ambience"]
-	path = ambience
+	path = worldmods/ambience
 	url = https://codeberg.org/tenplus1/ambience.git
 [submodule "armor_monoid"]
-	path = armor_monoid
+	path = worldmods/armor_monoid
 	url = https://github.com/minetest-mods/armor_monoid.git
 [submodule "atm"]
-	path = atm
+	path = worldmods/atm
 	url = https://github.com/Git-Forked/atm.git
 [submodule "moreawards-MT-Mod"]
 	path = moreawards-MT-Mod
 	url = https://github.com/ClothierEdward/moreawards-MT-Mod.git
+[submodule "awards"]
+	path = worldmods/awards
+	url = https://gitlab.com/rubenwardy/awards.git
+[submodule "bakedclay"]
+	path = worldmods/bakedclay
+	url = https://codeberg.org/tenplus1/bakedclay.git
+[submodule "basic_materials"]
+	path = worldmods/basic_materials
+	url = https://github.com/mt-mods/basic_materials.git
+[submodule "basic_trains"]
+	path = worldmods/basic_trains
+	url = http://git.bananach.space/basic_trains.git
+[submodule "beds"]
+	path = worldmods/beds
+	url = https://codeberg.org/tenplus1/beds.git
+[submodule "bees"]
+	path = worldmods/bees
+	url = https://codeberg.org/tenplus1/bees.git
+[submodule "bell"]
+	path = worldmods/bell
+	url = https://github.com/Sokomine/bell.git
+[submodule "bike"]
+	path = worldmods/bike
+	url = https://gitlab.com/h2mm/bike.git
+[submodule "minetest_biomeinfo"]
+	path = worldmods/minetest_biomeinfo
+	url = https://codeberg.org/Wuzzy/minetest_biomeinfo.git
+[submodule "bonemeal"]
+	path = worldmods/bonemeal
+	url = https://codeberg.org/tenplus1/bonemeal.git
+[submodule "builtin_item"]
+	path = worldmods/builtin_item
+	url = https://codeberg.org/tenplus1/builtin_item.git
+[submodule "character_anim"]
+	path = worldmods/character_anim
+	url = https://github.com/appgurueu/character_anim.git
+[submodule "cheese"]
+	path = worldmods/cheese
+	url = https://github.com/AnnalysaTheMinetester/cheese.git
+[submodule "christmas_decor"]
+	path = worldmods/christmas_decor
+	url = https://github.com/GreenXenith/christmas_decor.git
+[submodule "controls"]
+	path = worldmods/controls
+	url = https://github.com/mt-mods/controls.git
+[submodule "cottages"]
+	path = worldmods/cottages
+	url = https://github.com/C-C-Minetest-Server/cottages.git
+[submodule "currency"]
+	path = worldmods/currency
+	url = https://github.com/mt-mods/currency.git
+[submodule "death_compass"]
+	path = worldmods/death_compass
+	url = https://github.com/minetest-mods/death_compass.git
+[submodule "death_messages"]
+	path = worldmods/death_messages
+	url = https://github.com/randomei/death_messages.git
+[submodule "dfcaverns"]
+	path = worldmods/dfcaverns
+	url = https://github.com/FaceDeer/dfcaverns.git
+[submodule "digilines"]
+	path = worldmods/digilines
+	url = https://github.com/minetest-mods/digilines.git
+[submodule "digtron"]
+	path = worldmods/digtron
+	url = https://github.com/minetest-mods/digtron.git
+[submodule "drawers"]
+	path = worldmods/drawers
+	url = https://github.com/minetest-mods/drawers.git
+[submodule "drinks"]
+	path = worldmods/drinks
+	url = https://github.com/minetest-mods/drinks.git
+[submodule "ebiomes"]
+	path = worldmods/ebiomes
+	url = https://github.com/CowboyLva/ebiomes.git
+[submodule "edit_skin"]
+	path = worldmods/edit_skin
+	url = https://github.com/MrRar/edit_skin.git
+[submodule "elevator"]
+	path = worldmods/elevator
+	url = https://github.com/tigris-mt/elevator.git
+[submodule "fakelib"]
+	path = worldmods/fakelib
+	url = https://github.com/OgelGames/fakelib.git
