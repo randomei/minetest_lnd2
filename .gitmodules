@@ -363,3 +363,42 @@
 [submodule "worldmods/i3"]
 	path = worldmods/i3
 	url = https://github.com/randomei/i3.git
+[submodule "worldmods/visible_wielditem"]
+	path = worldmods/visible_wielditem
+	url = https://github.com/appgurueu/visible_wielditem.git
+[submodule "worldmods/volumetric-lighting"]
+	path = worldmods/volumetric-lighting
+	url = https://github.com/rollerozxa/volumetric-lighting.git
+[submodule "worldmods/waypoints"]
+	path = worldmods/waypoints
+	url = https://github.com/Krunegan/waypoints.git
+[submodule "worldmods/wielded_light"]
+	path = worldmods/wielded_light
+	url = https://github.com/minetest-mods/wielded_light.git
+[submodule "worldmods/wine"]
+	path = worldmods/wine
+	url = https://codeberg.org/tenplus1/wine.git
+[submodule "worldmods/working_villages"]
+	path = worldmods/working_villages
+	url = https://github.com/theFox6/working_villages.git
+[submodule "worldmods/Minetest-WorldEdit"]
+	path = worldmods/Minetest-WorldEdit
+	url = https://github.com/Uberi/Minetest-WorldEdit.git
+[submodule "worldmods/x_bows"]
+	path = worldmods/x_bows
+	url = https://bitbucket.org/minetest_gamers/x_bows.git
+[submodule "worldmods/x_enchanting"]
+	path = worldmods/x_enchanting
+	url = https://bitbucket.org/minetest_gamers/x_enchanting.git
+[submodule "worldmods/xcompat"]
+	path = worldmods/xcompat
+	url = https://github.com/mt-mods/xcompat.git
+[submodule "worldmods/xdecor-libre"]
+	path = worldmods/xdecor-libre
+	url = https://codeberg.org/Wuzzy/xdecor-libre.git
+[submodule "worldmods/xp_redo"]
+	path = worldmods/xp_redo
+	url = https://github.com/mt-mods/xp_redo.git
+[submodule "worldmods/yl_speak_up"]
+	path = worldmods/yl_speak_up
+	url = https://gitea.your-land.de/Sokomine/yl_speak_up.git
