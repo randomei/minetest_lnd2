@@ -1,6 +1,7 @@
 [submodule "3d_armor"]
 	path = 3d_armor
 	url = https://github.com/minetest-mods/3d_armor.git
+	branch = main
 [submodule "3d_armor_flyswim"]
 	path = 3d_armor_flyswim
 	url = https://github.com/sirrobzeroone/3d_armor_flyswim.git
