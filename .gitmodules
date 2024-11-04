@@ -14,3 +14,12 @@
 [submodule "ambience"]
 	path = ambience
 	url = https://codeberg.org/tenplus1/ambience.git
+[submodule "armor_monoid"]
+	path = armor_monoid
+	url = https://github.com/minetest-mods/armor_monoid.git
+[submodule "atm"]
+	path = atm
+	url = https://github.com/Git-Forked/atm.git
+[submodule "moreawards-MT-Mod"]
+	path = moreawards-MT-Mod
+	url = https://github.com/ClothierEdward/moreawards-MT-Mod.git
