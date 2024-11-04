@@ -108,3 +108,93 @@
 [submodule "fakelib"]
 	path = worldmods/fakelib
 	url = https://github.com/OgelGames/fakelib.git
+[submodule "farming"]
+	path = worldmods/farming
+	url = https://codeberg.org/tenplus1/farming.git
+[submodule "worldmods/minetest-flow"]
+	path = worldmods/minetest-flow
+	url = https://gitlab.com/luk3yx/minetest-flow.git
+[submodule "worldmods/minetest-fmod"]
+	path = worldmods/minetest-fmod
+	url = https://github.com/fluxionary/minetest-fmod.git
+[submodule "worldmods/minetest-formspec_ast"]
+	path = worldmods/minetest-formspec_ast
+	url = https://gitlab.com/luk3yx/minetest-formspec_ast.git
+[submodule "worldmods/minetest-futil"]
+	path = worldmods/minetest-futil
+	url = https://github.com/fluxionary/minetest-futil.git
+[submodule "worldmods/geomoria"]
+	path = worldmods/geomoria
+	url = https://github.com/randomei/geomoria.git
+[submodule "worldmods/geomoria_lootchests"]
+	path = worldmods/geomoria_lootchests
+	url = https://github.com/randomei/geomoria_lootchests.git
+[submodule "worldmods/ggraffiti"]
+	path = worldmods/ggraffiti
+	url = https://github.com/grorp/ggraffiti.git
+[submodule "worldmods/goblins"]
+	path = worldmods/goblins
+	url = https://gitlab.com/freelikegnu/goblins.git
+[submodule "worldmods/halloween"]
+	path = worldmods/halloween
+	url = https://github.com/GreenXenith/halloween.git
+[submodule "worldmods/handle_schematics"]
+	path = worldmods/handle_schematics
+	url = https://github.com/Sokomine/handle_schematics.git
+[submodule "worldmods/hangglider"]
+	path = worldmods/hangglider
+	url = https://github.com/mt-mods/hangglider.git
+[submodule "worldmods/minetest_hbarmor"]
+	path = worldmods/minetest_hbarmor
+	url = https://codeberg.org/Wuzzy/minetest_hbarmor.git
+[submodule "worldmods/minetest_hbhunger"]
+	path = worldmods/minetest_hbhunger
+	url = https://codeberg.org/Wuzzy/minetest_hbhunger.git
+[submodule "worldmods/hidden_doors"]
+	path = worldmods/hidden_doors
+	url = https://github.com/randomei/hidden_doors.git
+[submodule "worldmods/homedecor_modpack"]
+	path = worldmods/homedecor_modpack
+	url = https://github.com/mt-mods/homedecor_modpack.git
+[submodule "worldmods/minetest_hudbars"]
+	path = worldmods/minetest_hudbars
+	url = https://codeberg.org/Wuzzy/minetest_hudbars.git
+[submodule "worldmods/minetest-inventory_ores"]
+	path = worldmods/minetest-inventory_ores
+	url = https://github.com/fluxionary/minetest-inventory_ores.git
+[submodule "worldmods/item_drop"]
+	path = worldmods/item_drop
+	url = https://github.com/minetest-mods/item_drop.git
+[submodule "worldmods/leads"]
+	path = worldmods/leads
+	url = https://codeberg.org/SilverSandstone/leads.git
+[submodule "worldmods/lighting_monoids"]
+	path = worldmods/lighting_monoids
+	url = https://github.com/t-affeldt/lighting_monoids.git
+[submodule "worldmods/lootchests_modpack"]
+	path = worldmods/lootchests_modpack
+	url = https://github.com/mt-historical/lootchests_modpack.git
+[submodule "worldmods/ma_pops_furniture"]
+	path = worldmods/ma_pops_furniture
+	url = https://github.com/Gerold55/ma_pops_furniture.git
+[submodule "worldmods/magic_materials"]
+	path = worldmods/magic_materials
+	url = https://github.com/mt-historical/magic_materials.git
+[submodule "worldmods/mailbox"]
+	path = worldmods/mailbox
+	url = https://github.com/C-C-Minetest-Server/mailbox.git
+[submodule "worldmods/mesecons"]
+	path = worldmods/mesecons
+	url = https://github.com/minetest-mods/mesecons.git
+[submodule "worldmods/mesecraft_christmas"]
+	path = worldmods/mesecraft_christmas
+	url = https://github.com/randomei/mesecraft_christmas.git
+[submodule "worldmods/mesecraft_holiday_lights"]
+	path = worldmods/mesecraft_holiday_lights
+	url = https://github.com/randomei/mesecraft_holiday_lights.git
+[submodule "worldmods/mesecraft_mobs"]
+	path = worldmods/mesecraft_mobs
+	url = https://github.com/randomei/mesecraft_mobs.git
+[submodule "worldmods/mg_villages"]
+	path = worldmods/mg_villages
+	url = https://github.com/randomei/mg_villages.git
