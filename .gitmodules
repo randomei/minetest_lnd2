@@ -1,0 +1,16 @@
+[submodule "3d_armor"]
+	path = 3d_armor
+	url = https://github.com/minetest-mods/3d_armor.git
+[submodule "3d_armor_flyswim"]
+	path = 3d_armor_flyswim
+	url = https://github.com/sirrobzeroone/3d_armor_flyswim.git
+[submodule "advtrains"]
+	path = advtrains
+	url = https://git.bananach.space/advtrains.git
+	branch = release-2.4.6
+[submodule "advtrains_subway_ny"]
+	path = advtrains_subway_ny
+	url = https://codeberg.org/advtrains_supplemental/advtrains_subway_ny.git
+[submodule "ambience"]
+	path = ambience
+	url = https://codeberg.org/tenplus1/ambience.git
