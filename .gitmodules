@@ -198,3 +198,168 @@
 [submodule "worldmods/mg_villages"]
 	path = worldmods/mg_villages
 	url = https://github.com/randomei/mg_villages.git
+[submodule "worldmods/minecart"]
+	path = worldmods/minecart
+	url = https://github.com/joe7575/minecart.git
+[submodule "worldmods/mob_horse"]
+	path = worldmods/mob_horse
+	url = https://codeberg.org/tenplus1/mob_horse.git
+[submodule "worldmods/mobs_redo"]
+	path = worldmods/mobs_redo
+	url = https://codeberg.org/tenplus1/mobs_redo.git
+[submodule "worldmods/mobs_animal"]
+	path = worldmods/mobs_animal
+	url = https://codeberg.org/tenplus1/mobs_animal.git
+[submodule "worldmods/mobs_monster"]
+	path = worldmods/mobs_monster
+	url = https://codeberg.org/tenplus1/mobs_monster.git
+[submodule "worldmods/minetest-mobs_balrog"]
+	path = worldmods/minetest-mobs_balrog
+	url = https://github.com/fluxionary/minetest-mobs_balrog.git
+[submodule "worldmods/mobs_npc"]
+	path = worldmods/mobs_npc
+	url = https://codeberg.org/tenplus1/mobs_npc.git
+[submodule "worldmods/mobs_water"]
+	path = worldmods/mobs_water
+	url = https://codeberg.org/tenplus1/mobs_water.git
+[submodule "worldmods/mobs_skeletons"]
+	path = worldmods/mobs_skeletons
+	url = https://codeberg.org/tenplus1/mobs_skeletons.git
+[submodule "worldmods/modlib"]
+	path = worldmods/modlib
+	url = https://github.com/appgurueu/modlib.git
+[submodule "worldmods/minetest-moreblocks"]
+	path = worldmods/minetest-moreblocks
+	url = https://github.com/fluxionary/minetest-moreblocks.git
+[submodule "worldmods/morelights"]
+	path = worldmods/morelights
+	url = https://github.com/random-geek/morelights.git
+[submodule "worldmods/doxy_morelights_dim"]
+	path = worldmods/doxy_morelights_dim
+	url = https://invent.kde.org/davidhurka/doxy_morelights_dim.git
+[submodule "worldmods/moreores"]
+	path = worldmods/moreores
+	url = https://github.com/minetest-mods/moreores.git
+[submodule "worldmods/moretrains"]
+	path = worldmods/moretrains
+	url = https://git.bananach.space/moretrains.git
+[submodule "worldmods/moretrees"]
+	path = worldmods/moretrees
+	url = https://github.com/mt-mods/moretrees.git
+[submodule "worldmods/multidecor"]
+	path = worldmods/multidecor
+	url = https://github.com/Andrey2470T/multidecor.git
+[submodule "worldmods/nativevillages"]
+	path = worldmods/nativevillages
+	url = https://github.com/Skandarella/nativevillages.git
+[submodule "worldmods/nether"]
+	path = worldmods/nether
+	url = https://github.com/minetest-mods/nether.git
+[submodule "worldmods/livingnether"]
+	path = worldmods/livingnether
+	url = https://github.com/Skandarella/livingnether.git
+[submodule "worldmods/npc_talk"]
+	path = worldmods/npc_talk
+	url = https://gitea.your-land.de/Sokomine/npc_talk.git
+[submodule "worldmods/npc_talk_edit"]
+	path = worldmods/npc_talk_edit
+	url = https://gitea.your-land.de/Sokomine/npc_talk_edit.git
+[submodule "worldmods/minetest_offhand"]
+	path = worldmods/minetest_offhand
+	url = https://github.com/t-affeldt/minetest_offhand.git
+[submodule "worldmods/people"]
+	path = worldmods/people
+	url = https://github.com/Skandarella/people.git
+[submodule "worldmods/minetest_pep"]
+	path = worldmods/minetest_pep
+	url = https://repo.or.cz/minetest_pep.git
+[submodule "worldmods/pipeworks"]
+	path = worldmods/pipeworks
+	url = https://github.com/mt-mods/pipeworks.git
+[submodule "worldmods/placement_preview"]
+	path = worldmods/placement_preview
+	url = https://github.com/KingTheGuy/placement_preview.git
+[submodule "worldmods/player_monoids"]
+	path = worldmods/player_monoids
+	url = https://github.com/minetest-mods/player_monoids.git
+[submodule "worldmods/minetest_playereffects"]
+	path = worldmods/minetest_playereffects
+	url = https://codeberg.org/Wuzzy/minetest_playereffects.git
+[submodule "worldmods/pontoons"]
+	path = worldmods/pontoons
+	url = https://github.com/minetest-mods/pontoons.git
+[submodule "worldmods/powerbanks"]
+	path = worldmods/powerbanks
+	url = https://github.com/OgelGames/powerbanks.git
+[submodule "worldmods/protector"]
+	path = worldmods/protector
+	url = https://codeberg.org/tenplus1/protector.git
+[submodule "worldmods/pvp_toggle"]
+	path = worldmods/pvp_toggle
+	url = https://github.com/JamesClarke7283/pvp_toggle.git
+[submodule "worldmods/redef"]
+	path = worldmods/redef
+	url = https://git.0x7be.net/dirk/redef.git
+[submodule "worldmods/minetest-mod-rocket_launcher"]
+	path = worldmods/minetest-mod-rocket_launcher
+	url = https://github.com/zmv7/minetest-mod-rocket_launcher.git
+[submodule "worldmods/signs_lib"]
+	path = worldmods/signs_lib
+	url = https://github.com/mt-mods/signs_lib.git
+[submodule "worldmods/simple_woodcutter"]
+	path = worldmods/simple_woodcutter
+	url = https://notabug.org/minetestia/simple_woodcutter.git
+[submodule "worldmods/skills"]
+	path = worldmods/skills
+	url = https://gitlab.com/zughy-friends-minetest/skills.git
+[submodule "worldmods/spawners"]
+	path = worldmods/spawners
+	url = https://bitbucket.org/minetest_gamers/spawners.git
+[submodule "worldmods/sprint_lite"]
+	path = worldmods/sprint_lite
+	url = https://github.com/mt-historical/sprint_lite.git
+[submodule "worldmods/stainedglass"]
+	path = worldmods/stainedglass
+	url = https://gitlab.com/alerikaisattera/stainedglass.git
+[submodule "worldmods/street_signs"]
+	path = worldmods/street_signs
+	url = https://github.com/mt-mods/street_signs.git
+[submodule "worldmods/minetest-subways"]
+	path = worldmods/minetest-subways
+	url = https://github.com/SamMatzko/minetest-subways.git
+[submodule "worldmods/technic"]
+	path = worldmods/technic
+	url = https://github.com/minetest-mods/technic.git
+[submodule "worldmods/technic_armor"]
+	path = worldmods/technic_armor
+	url = https://github.com/mt-mods/technic_armor.git
+[submodule "worldmods/tga_encoder"]
+	path = worldmods/tga_encoder
+	url = https://git.minetest.land/erlehmann/tga_encoder.git
+[submodule "worldmods/towercrane"]
+	path = worldmods/towercrane
+	url = https://github.com/minetest-mods/towercrane.git
+[submodule "worldmods/minetest_tsm_railcorridors"]
+	path = worldmods/minetest_tsm_railcorridors
+	url = https://codeberg.org/Wuzzy/minetest_tsm_railcorridors.git
+[submodule "worldmods/minetest_tt"]
+	path = worldmods/minetest_tt
+	url = https://codeberg.org/Wuzzy/minetest_tt.git
+[submodule "worldmods/minetest_tt_base"]
+	path = worldmods/minetest_tt_base
+	url = https://codeberg.org/Wuzzy/minetest_tt_base.git
+[submodule "worldmods/tt_armor"]
+	path = worldmods/tt_armor
+	url = https://github.com/adikalon/tt_armor.git
+[submodule "worldmods/tt_food"]
+	path = worldmods/tt_food
+	url = https://github.com/adikalon/tt_food.git
+[submodule "worldmods/unicode_text"]
+	path = worldmods/unicode_text
+	url = https://git.minetest.land/erlehmann/unicode_text.git
+[submodule "worldmods/unifieddyes"]
+	path = worldmods/unifieddyes
+	url = https://github.com/mt-mods/unifieddyes.git
+[submodule "worldmods/i3"]
+	path = worldmods/i3
+	url = https://github.com/randomei/i3.git
