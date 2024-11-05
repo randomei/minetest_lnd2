@@ -395,7 +395,7 @@
 	url = https://gitea.your-land.de/Sokomine/yl_speak_up.git
 [submodule "worldmods/unified_inventory"]
 	path = worldmods/unified_inventory
-	url = https://github.com/minetest-mods/unified_inventory.git
+	url = https://github.com/randomei/unified_inventory.git
 [submodule "worldmods/unified_inventory_themes"]
 	path = worldmods/unified_inventory_themes
 	url = https://gitlab.com/threehymns1/unified_inventory_themes.git
