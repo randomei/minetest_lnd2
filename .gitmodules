@@ -405,3 +405,6 @@
 [submodule "worldmods/morelights_dim"]
 	path = worldmods/morelights_dim
 	url = https://github.com/randomei/morelights_dim.git
+[submodule "worldmods/skills"]
+	path = worldmods/skills
+	url = https://gitlab.com/zughy-friends-minetest/skills.git
