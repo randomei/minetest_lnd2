@@ -41,7 +41,7 @@
 	url = https://codeberg.org/tenplus1/beds.git
 [submodule "bees"]
 	path = worldmods/bees
-	url = https://codeberg.org/tenplus1/bees.git
+	url = https://github.com/randomei/bees.git
 [submodule "bell"]
 	path = worldmods/bell
 	url = https://github.com/Sokomine/bell.git
