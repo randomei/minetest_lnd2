@@ -42,6 +42,7 @@
 [submodule "bees"]
 	path = worldmods/bees
 	url = https://github.com/randomei/bees.git
+	branch = main
 [submodule "bell"]
 	path = worldmods/bell
 	url = https://github.com/Sokomine/bell.git
