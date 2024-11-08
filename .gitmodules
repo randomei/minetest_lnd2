@@ -71,7 +71,7 @@
 	url = https://github.com/mt-mods/controls.git
 [submodule "cottages"]
 	path = worldmods/cottages
-	url = https://github.com/C-C-Minetest-Server/cottages.git
+	url = https://github.com/randomei/cottages.git
 [submodule "currency"]
 	path = worldmods/currency
 	url = https://github.com/mt-mods/currency.git
