@@ -84,7 +84,7 @@
 	url = https://github.com/randomei/death_messages.git
 [submodule "dfcaverns"]
 	path = worldmods/dfcaverns
-	url = https://github.com/FaceDeer/dfcaverns.git
+	url = https://github.com/randomei/dfcaverns.git
 [submodule "digilines"]
 	path = worldmods/digilines
 	url = https://github.com/minetest-mods/digilines.git
