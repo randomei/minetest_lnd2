@@ -237,7 +237,7 @@
 	url = https://github.com/random-geek/morelights.git
 [submodule "worldmods/moreores"]
 	path = worldmods/moreores
-	url = https://github.com/minetest-mods/moreores.git
+	url = https://github.com/randomei/moreores.git
 [submodule "worldmods/moretrains"]
 	path = worldmods/moretrains
 	url = https://git.bananach.space/moretrains.git
