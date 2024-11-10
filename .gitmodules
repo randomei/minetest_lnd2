@@ -29,7 +29,7 @@
 	url = https://gitlab.com/rubenwardy/awards.git
 [submodule "bakedclay"]
 	path = worldmods/bakedclay
-	url = https://codeberg.org/tenplus1/bakedclay.git
+	url = https://github.com/randomei/bakedclay.git
 [submodule "basic_materials"]
 	path = worldmods/basic_materials
 	url = https://github.com/mt-mods/basic_materials.git
