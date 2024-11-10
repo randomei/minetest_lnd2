@@ -231,7 +231,7 @@
 	url = https://github.com/appgurueu/modlib.git
 [submodule "worldmods/minetest-moreblocks"]
 	path = worldmods/minetest-moreblocks
-	url = https://github.com/fluxionary/minetest-moreblocks.git
+	url = https://github.com/randomei/minetest-moreblocks.git
 [submodule "worldmods/morelights"]
 	path = worldmods/morelights
 	url = https://github.com/random-geek/morelights.git
