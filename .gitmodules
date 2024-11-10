@@ -322,9 +322,6 @@
 [submodule "worldmods/minetest-subways"]
 	path = worldmods/minetest-subways
 	url = https://github.com/SamMatzko/minetest-subways.git
-[submodule "worldmods/technic"]
-	path = worldmods/technic
-	url = https://github.com/minetest-mods/technic.git
 [submodule "worldmods/technic_armor"]
 	path = worldmods/technic_armor
 	url = https://github.com/mt-mods/technic_armor.git
@@ -409,3 +406,6 @@
 [submodule "worldmods/skills"]
 	path = worldmods/skills
 	url = https://gitlab.com/zughy-friends-minetest/skills.git
+[submodule "worldmods/technic"]
+	path = worldmods/technic
+	url = https://github.com/randomei/technic.git
