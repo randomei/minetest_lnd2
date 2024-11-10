@@ -93,7 +93,7 @@
 	url = https://github.com/minetest-mods/digtron.git
 [submodule "drawers"]
 	path = worldmods/drawers
-	url = https://github.com/minetest-mods/drawers.git
+	url = https://github.com/randomei/drawers.git
 [submodule "drinks"]
 	path = worldmods/drinks
 	url = https://github.com/minetest-mods/drinks.git
