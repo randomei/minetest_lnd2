@@ -32,7 +32,7 @@
 	url = https://github.com/randomei/bakedclay.git
 [submodule "basic_materials"]
 	path = worldmods/basic_materials
-	url = https://github.com/mt-mods/basic_materials.git
+	url = https://github.com/randomei/basic_materials.git
 [submodule "basic_trains"]
 	path = worldmods/basic_trains
 	url = http://git.bananach.space/basic_trains.git
