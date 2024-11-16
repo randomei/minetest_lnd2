@@ -38,7 +38,7 @@
 	url = http://git.bananach.space/basic_trains.git
 [submodule "beds"]
 	path = worldmods/beds
-	url = https://codeberg.org/tenplus1/beds.git
+	url = https://github.com/randomei/beds.git
 [submodule "bees"]
 	path = worldmods/bees
 	url = https://github.com/randomei/bees.git
