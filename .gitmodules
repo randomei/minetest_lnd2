@@ -252,7 +252,7 @@
 	url = https://github.com/Skandarella/nativevillages.git
 [submodule "worldmods/nether"]
 	path = worldmods/nether
-	url = https://github.com/minetest-mods/nether.git
+	url = https://github.com/randomei/nether.git
 [submodule "worldmods/livingnether"]
 	path = worldmods/livingnether
 	url = https://github.com/Skandarella/livingnether.git
