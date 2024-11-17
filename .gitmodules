@@ -312,7 +312,7 @@
 	url = https://bitbucket.org/minetest_gamers/spawners.git
 [submodule "worldmods/sprint_lite"]
 	path = worldmods/sprint_lite
-	url = https://github.com/mt-historical/sprint_lite.git
+	url = https://github.com/randomei/sprint_lite.git
 [submodule "worldmods/stainedglass"]
 	path = worldmods/stainedglass
 	url = https://gitlab.com/alerikaisattera/stainedglass.git
