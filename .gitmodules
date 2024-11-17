@@ -243,7 +243,7 @@
 	url = https://git.bananach.space/moretrains.git
 [submodule "worldmods/moretrees"]
 	path = worldmods/moretrees
-	url = https://github.com/mt-mods/moretrees.git
+	url = https://github.com/randomei/moretrees.git
 [submodule "worldmods/multidecor"]
 	path = worldmods/multidecor
 	url = https://github.com/randomei/multidecor.git
