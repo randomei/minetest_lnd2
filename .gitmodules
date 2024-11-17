@@ -409,3 +409,6 @@
 [submodule "worldmods/technic"]
 	path = worldmods/technic
 	url = https://github.com/randomei/technic.git
+[submodule "worldmods/MT-CoreAnim"]
+	path = worldmods/MT-CoreAnim
+	url = https://github.com/SpacingBat3/MT-CoreAnim.git
