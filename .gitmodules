@@ -7,7 +7,7 @@
 	url = https://github.com/sirrobzeroone/3d_armor_flyswim.git
 [submodule "advtrains"]
 	path = worldmods/advtrains
-	url = https://git.bananach.space/advtrains.git
+	url = https://github.com/randomei/advtrains.git
 	branch = release-2.4.6
 [submodule "advtrains_subway_ny"]
 	path = worldmods/advtrains_subway_ny
