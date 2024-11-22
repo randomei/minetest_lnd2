@@ -11,7 +11,7 @@
 	branch = release-2.4.6
 [submodule "advtrains_subway_ny"]
 	path = worldmods/advtrains_subway_ny
-	url = https://codeberg.org/advtrains_supplemental/advtrains_subway_ny.git
+	url = https://github.com/randomei/advtrains_subway_ny.git
 [submodule "ambience"]
 	path = worldmods/ambience
 	url = https://codeberg.org/tenplus1/ambience.git
