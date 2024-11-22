@@ -48,7 +48,7 @@
 	url = https://github.com/Sokomine/bell.git
 [submodule "bike"]
 	path = worldmods/bike
-	url = https://gitlab.com/h2mm/bike.git
+	url = https://github.com/randomei/bike.git
 [submodule "minetest_biomeinfo"]
 	path = worldmods/minetest_biomeinfo
 	url = https://codeberg.org/Wuzzy/minetest_biomeinfo.git
