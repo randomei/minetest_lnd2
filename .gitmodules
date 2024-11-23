@@ -273,7 +273,7 @@
 	url = https://repo.or.cz/minetest_pep.git
 [submodule "worldmods/pipeworks"]
 	path = worldmods/pipeworks
-	url = https://github.com/mt-mods/pipeworks.git
+	url = https://github.com/randomei/pipeworks.git
 [submodule "worldmods/placement_preview"]
 	path = worldmods/placement_preview
 	url = https://github.com/KingTheGuy/placement_preview.git
