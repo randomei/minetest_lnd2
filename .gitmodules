@@ -87,7 +87,7 @@
 	url = https://github.com/randomei/dfcaverns.git
 [submodule "digilines"]
 	path = worldmods/digilines
-	url = https://github.com/minetest-mods/digilines.git
+	url = https://github.com/randomei/digilines.git
 [submodule "digtron"]
 	path = worldmods/digtron
 	url = https://github.com/minetest-mods/digtron.git
