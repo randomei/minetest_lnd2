@@ -186,7 +186,7 @@
 	url = https://github.com/C-C-Minetest-Server/mailbox.git
 [submodule "worldmods/mesecons"]
 	path = worldmods/mesecons
-	url = https://github.com/minetest-mods/mesecons.git
+	url = https://github.com/randomei/mesecons.git
 [submodule "worldmods/mesecraft_christmas"]
 	path = worldmods/mesecraft_christmas
 	url = https://github.com/randomei/mesecraft_christmas.git
