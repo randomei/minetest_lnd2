@@ -63,7 +63,7 @@
 	url = https://github.com/appgurueu/character_anim.git
 [submodule "cheese"]
 	path = worldmods/cheese
-	url = https://github.com/AnnalysaTheMinetester/cheese.git
+	url = https://github.com/randomei/cheese.git
 [submodule "christmas_decor"]
 	path = worldmods/christmas_decor
 	url = https://github.com/GreenXenith/christmas_decor.git
