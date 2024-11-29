@@ -322,15 +322,9 @@
 [submodule "worldmods/minetest-subways"]
 	path = worldmods/minetest-subways
 	url = https://github.com/SamMatzko/minetest-subways.git
-[submodule "worldmods/technic_armor"]
-	path = worldmods/technic_armor
-	url = https://github.com/mt-mods/technic_armor.git
 [submodule "worldmods/tga_encoder"]
 	path = worldmods/tga_encoder
 	url = https://git.minetest.land/erlehmann/tga_encoder.git
-[submodule "worldmods/towercrane"]
-	path = worldmods/towercrane
-	url = https://github.com/minetest-mods/towercrane.git
 [submodule "worldmods/minetest_tsm_railcorridors"]
 	path = worldmods/minetest_tsm_railcorridors
 	url = https://codeberg.org/Wuzzy/minetest_tsm_railcorridors.git
@@ -406,9 +400,9 @@
 [submodule "worldmods/skills"]
 	path = worldmods/skills
 	url = https://gitlab.com/zughy-friends-minetest/skills.git
-[submodule "worldmods/technic"]
-	path = worldmods/technic
-	url = https://github.com/randomei/technic.git
 [submodule "worldmods/MT-CoreAnim"]
 	path = worldmods/MT-CoreAnim
 	url = https://github.com/SpacingBat3/MT-CoreAnim.git
+[submodule "worldmods/techage_modpack"]
+	path = worldmods/techage_modpack
+	url = https://github.com/randomei/techage_modpack.git
