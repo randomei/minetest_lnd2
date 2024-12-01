@@ -142,9 +142,6 @@
 [submodule "worldmods/handle_schematics"]
 	path = worldmods/handle_schematics
 	url = https://github.com/Sokomine/handle_schematics.git
-[submodule "worldmods/hangglider"]
-	path = worldmods/hangglider
-	url = https://github.com/mt-mods/hangglider.git
 [submodule "worldmods/minetest_hbarmor"]
 	path = worldmods/minetest_hbarmor
 	url = https://codeberg.org/Wuzzy/minetest_hbarmor.git
@@ -196,9 +193,6 @@
 [submodule "worldmods/mesecraft_mobs"]
 	path = worldmods/mesecraft_mobs
 	url = https://github.com/randomei/mesecraft_mobs.git
-[submodule "worldmods/mg_villages"]
-	path = worldmods/mg_villages
-	url = https://github.com/randomei/mg_villages.git
 [submodule "worldmods/minecart"]
 	path = worldmods/minecart
 	url = https://github.com/joe7575/minecart.git
@@ -286,9 +280,6 @@
 [submodule "worldmods/pontoons"]
 	path = worldmods/pontoons
 	url = https://github.com/minetest-mods/pontoons.git
-[submodule "worldmods/powerbanks"]
-	path = worldmods/powerbanks
-	url = https://github.com/OgelGames/powerbanks.git
 [submodule "worldmods/protector"]
 	path = worldmods/protector
 	url = https://codeberg.org/tenplus1/protector.git
@@ -406,3 +397,12 @@
 [submodule "worldmods/techage_modpack"]
 	path = worldmods/techage_modpack
 	url = https://github.com/randomei/techage_modpack.git
+[submodule "worldmods/settlements"]
+	path = worldmods/settlements
+	url = https://github.com/randomei/settlements.git
+[submodule "worldmods/settlements_fantasy"]
+	path = worldmods/settlements_fantasy
+	url = https://github.com/randomei/settlements_fantasy.git
+[submodule "worldmods/named_waypoints"]
+	path = worldmods/named_waypoints
+	url = https://github.com/randomei/named_waypoints.git
