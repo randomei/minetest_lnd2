@@ -64,9 +64,6 @@
 [submodule "cheese"]
 	path = worldmods/cheese
 	url = https://github.com/randomei/cheese.git
-[submodule "christmas_decor"]
-	path = worldmods/christmas_decor
-	url = https://github.com/GreenXenith/christmas_decor.git
 [submodule "controls"]
 	path = worldmods/controls
 	url = https://github.com/mt-mods/controls.git
@@ -157,9 +154,6 @@
 [submodule "worldmods/minetest_hudbars"]
 	path = worldmods/minetest_hudbars
 	url = https://codeberg.org/Wuzzy/minetest_hudbars.git
-[submodule "worldmods/minetest-inventory_ores"]
-	path = worldmods/minetest-inventory_ores
-	url = https://github.com/fluxionary/minetest-inventory_ores.git
 [submodule "worldmods/item_drop"]
 	path = worldmods/item_drop
 	url = https://github.com/minetest-mods/item_drop.git
@@ -406,3 +400,12 @@
 [submodule "worldmods/named_waypoints"]
 	path = worldmods/named_waypoints
 	url = https://github.com/randomei/named_waypoints.git
+[submodule "worldmods/areas"]
+	path = worldmods/areas
+	url = https://github.com/minetest-mods/areas.git
+[submodule "worldmods/minetest_doc"]
+	path = worldmods/minetest_doc
+	url = https://codeberg.org/Wuzzy/minetest_doc.git
+[submodule "worldmods/afk"]
+	path = worldmods/afk
+	url = https://github.com/randomei/afk.git
