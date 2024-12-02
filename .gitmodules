@@ -99,7 +99,7 @@
 	url = https://github.com/CowboyLva/ebiomes.git
 [submodule "edit_skin"]
 	path = worldmods/edit_skin
-	url = https://github.com/MrRar/edit_skin.git
+	url = https://github.com/randomei/edit_skin.git
 [submodule "elevator"]
 	path = worldmods/elevator
 	url = https://github.com/tigris-mt/elevator.git
@@ -409,3 +409,6 @@
 [submodule "worldmods/afk"]
 	path = worldmods/afk
 	url = https://github.com/randomei/afk.git
+[submodule "worldmods/sickles"]
+	path = worldmods/sickles
+	url = https://github.com/t-affeldt/sickles.git
