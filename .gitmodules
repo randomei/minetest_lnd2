@@ -129,7 +129,7 @@
 	url = https://github.com/randomei/geomoria_lootchests.git
 [submodule "worldmods/ggraffiti"]
 	path = worldmods/ggraffiti
-	url = https://github.com/randomei/ggraffiti.git
+	url = https://github.com/grorp/ggraffiti.git
 [submodule "worldmods/goblins"]
 	path = worldmods/goblins
 	url = https://gitlab.com/freelikegnu/goblins.git
