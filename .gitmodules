@@ -87,7 +87,7 @@
 	url = https://github.com/randomei/digilines.git
 [submodule "digtron"]
 	path = worldmods/digtron
-	url = https://github.com/minetest-mods/digtron.git
+	url = https://github.com/randomei/digtron.git
 [submodule "drawers"]
 	path = worldmods/drawers
 	url = https://github.com/randomei/drawers.git
@@ -129,7 +129,7 @@
 	url = https://github.com/randomei/geomoria_lootchests.git
 [submodule "worldmods/ggraffiti"]
 	path = worldmods/ggraffiti
-	url = https://github.com/grorp/ggraffiti.git
+	url = https://github.com/randomei/ggraffiti.git
 [submodule "worldmods/goblins"]
 	path = worldmods/goblins
 	url = https://gitlab.com/freelikegnu/goblins.git
@@ -159,7 +159,7 @@
 	url = https://github.com/minetest-mods/item_drop.git
 [submodule "worldmods/leads"]
 	path = worldmods/leads
-	url = https://codeberg.org/SilverSandstone/leads.git
+	url = https://codeberg.org/randomei/leads.git
 [submodule "worldmods/lighting_monoids"]
 	path = worldmods/lighting_monoids
 	url = https://github.com/t-affeldt/lighting_monoids.git
@@ -289,9 +289,6 @@
 [submodule "worldmods/signs_lib"]
 	path = worldmods/signs_lib
 	url = https://github.com/mt-mods/signs_lib.git
-[submodule "worldmods/simple_woodcutter"]
-	path = worldmods/simple_woodcutter
-	url = https://notabug.org/minetestia/simple_woodcutter.git
 [submodule "worldmods/spawners"]
 	path = worldmods/spawners
 	url = https://bitbucket.org/minetest_gamers/spawners.git
@@ -412,3 +409,24 @@
 [submodule "worldmods/sickles"]
 	path = worldmods/sickles
 	url = https://github.com/t-affeldt/sickles.git
+[submodule "worldmods/minetest_doc_items"]
+	path = worldmods/minetest_doc_items
+	url = https://codeberg.org/Wuzzy/minetest_doc_items.git
+[submodule "worldmods/minetest_doc_identifier"]
+	path = worldmods/minetest_doc_identifier
+	url = https://codeberg.org/Wuzzy/minetest_doc_identifier.git
+[submodule "worldmods/minetest_doc_basics"]
+	path = worldmods/minetest_doc_basics
+	url = https://codeberg.org/Wuzzy/minetest_doc_basics.git
+[submodule "worldmods/dreambuilder_hotbar"]
+	path = worldmods/dreambuilder_hotbar
+	url = https://github.com/mt-mods/dreambuilder_hotbar.git
+[submodule "worldmods/lumberjack"]
+	path = worldmods/lumberjack
+	url = https://github.com/joe7575/lumberjack.git
+[submodule "worldmods/logistica"]
+	path = worldmods/logistica
+	url = https://github.com/randomei/logistica.git
+[submodule "worldmods/ChatCmdBuilder"]
+	path = worldmods/ChatCmdBuilder
+	url = https://github.com/rubenwardy/ChatCmdBuilder.git
