@@ -72,7 +72,7 @@
 	url = https://github.com/randomei/cottages.git
 [submodule "currency"]
 	path = worldmods/currency
-	url = https://github.com/mt-mods/currency.git
+	url = https://github.com/randomei/currency.git
 [submodule "death_compass"]
 	path = worldmods/death_compass
 	url = https://github.com/minetest-mods/death_compass.git
@@ -174,7 +174,7 @@
 	url = https://github.com/mt-historical/magic_materials.git
 [submodule "worldmods/mailbox"]
 	path = worldmods/mailbox
-	url = https://github.com/C-C-Minetest-Server/mailbox.git
+	url = https://github.com/randomei/mailbox.git
 [submodule "worldmods/mesecons"]
 	path = worldmods/mesecons
 	url = https://github.com/randomei/mesecons.git
@@ -243,7 +243,7 @@
 	url = https://github.com/randomei/nether.git
 [submodule "worldmods/livingnether"]
 	path = worldmods/livingnether
-	url = https://github.com/Skandarella/livingnether.git
+	url = https://github.com/randomei/livingnether.git
 [submodule "worldmods/npc_talk"]
 	path = worldmods/npc_talk
 	url = https://gitea.your-land.de/Sokomine/npc_talk.git
