@@ -430,3 +430,6 @@
 [submodule "worldmods/ChatCmdBuilder"]
 	path = worldmods/ChatCmdBuilder
 	url = https://github.com/rubenwardy/ChatCmdBuilder.git
+[submodule "worldmods/lnd_compat"]
+	path = worldmods/lnd_compat
+	url = https://github.com/randomei/lnd_compat.git
