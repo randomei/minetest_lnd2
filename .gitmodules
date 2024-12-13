@@ -172,9 +172,6 @@
 [submodule "worldmods/magic_materials"]
 	path = worldmods/magic_materials
 	url = https://github.com/mt-historical/magic_materials.git
-[submodule "worldmods/mailbox"]
-	path = worldmods/mailbox
-	url = https://github.com/randomei/mailbox.git
 [submodule "worldmods/mesecons"]
 	path = worldmods/mesecons
 	url = https://github.com/randomei/mesecons.git
@@ -252,7 +249,7 @@
 	url = https://gitea.your-land.de/Sokomine/npc_talk_edit.git
 [submodule "worldmods/minetest_offhand"]
 	path = worldmods/minetest_offhand
-	url = https://github.com/t-affeldt/minetest_offhand.git
+	url = https://github.com/randomei/minetest_offhand.git
 [submodule "worldmods/people"]
 	path = worldmods/people
 	url = https://github.com/Skandarella/people.git
@@ -433,3 +430,9 @@
 [submodule "worldmods/lnd_compat"]
 	path = worldmods/lnd_compat
 	url = https://github.com/randomei/lnd_compat.git
+[submodule "worldmods/mail"]
+	path = worldmods/mail
+	url = https://github.com/randomei/mail.git
+[submodule "worldmods/minetest-bones_redo"]
+	path = worldmods/minetest-bones_redo
+	url = https://github.com/fluxionary/minetest-bones_redo.git
