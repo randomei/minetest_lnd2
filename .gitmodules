@@ -45,7 +45,7 @@
 	branch = main
 [submodule "bell"]
 	path = worldmods/bell
-	url = https://github.com/randomei/bell.git
+	url = https://github.com/FaceDeer/bell.git
 [submodule "bike"]
 	path = worldmods/bike
 	url = https://github.com/randomei/bike.git
@@ -63,7 +63,7 @@
 	url = https://github.com/appgurueu/character_anim.git
 [submodule "cheese"]
 	path = worldmods/cheese
-	url = https://github.com/randomei/cheese.git
+	url = https://github.com/AnnalysaTheMinetester/cheese.git
 [submodule "controls"]
 	path = worldmods/controls
 	url = https://github.com/mt-mods/controls.git
@@ -99,7 +99,7 @@
 	url = https://github.com/CowboyLva/ebiomes.git
 [submodule "edit_skin"]
 	path = worldmods/edit_skin
-	url = https://github.com/randomei/edit_skin.git
+	url = https://github.com/MrRar/edit_skin.git
 [submodule "elevator"]
 	path = worldmods/elevator
 	url = https://github.com/tigris-mt/elevator.git
@@ -222,13 +222,13 @@
 	url = https://github.com/random-geek/morelights.git
 [submodule "worldmods/moreores"]
 	path = worldmods/moreores
-	url = https://github.com/randomei/moreores.git
+	url = https://github.com/minetest-mods/moreores.git
 [submodule "worldmods/moretrains"]
 	path = worldmods/moretrains
 	url = https://git.bananach.space/moretrains.git
 [submodule "worldmods/moretrees"]
 	path = worldmods/moretrees
-	url = https://github.com/randomei/moretrees.git
+	url = https://github.com/mt-mods/moretrees.git
 [submodule "worldmods/multidecor"]
 	path = worldmods/multidecor
 	url = https://github.com/randomei/multidecor.git
@@ -291,7 +291,7 @@
 	url = https://bitbucket.org/minetest_gamers/spawners.git
 [submodule "worldmods/sprint_lite"]
 	path = worldmods/sprint_lite
-	url = https://github.com/randomei/sprint_lite.git
+	url = https://github.com/mt-historical/sprint_lite.git
 [submodule "worldmods/stainedglass"]
 	path = worldmods/stainedglass
 	url = https://gitlab.com/alerikaisattera/stainedglass.git
@@ -432,7 +432,10 @@
 	url = https://github.com/randomei/lnd_compat.git
 [submodule "worldmods/mail"]
 	path = worldmods/mail
-	url = https://github.com/randomei/mail.git
+	url = https://github.com/mt-mods/mail.git
 [submodule "worldmods/minetest-bones_redo"]
 	path = worldmods/minetest-bones_redo
 	url = https://github.com/fluxionary/minetest-bones_redo.git
+[submodule "worldmods/spawn_command"]
+	path = worldmods/spawn_command
+	url = https://github.com/minetest-mods/spawn_command.git
