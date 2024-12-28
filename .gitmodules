@@ -38,17 +38,17 @@
 	url = http://git.bananach.space/basic_trains.git
 [submodule "beds"]
 	path = worldmods/beds
-	url = https://github.com/randomei/beds.git
+	url = https://codeberg.org/randomei/beds.git
 [submodule "bees"]
 	path = worldmods/bees
-	url = https://github.com/randomei/bees.git
+	url = https://codeberg.org/randomei/bees.git
 	branch = main
 [submodule "bell"]
 	path = worldmods/bell
 	url = https://github.com/FaceDeer/bell.git
 [submodule "bike"]
 	path = worldmods/bike
-	url = https://github.com/randomei/bike.git
+	url = https://gitlab.com/randomei/bike.git
 [submodule "minetest_biomeinfo"]
 	path = worldmods/minetest_biomeinfo
 	url = https://codeberg.org/Wuzzy/minetest_biomeinfo.git
@@ -253,9 +253,6 @@
 [submodule "worldmods/people"]
 	path = worldmods/people
 	url = https://github.com/Skandarella/people.git
-[submodule "worldmods/minetest_pep"]
-	path = worldmods/minetest_pep
-	url = https://repo.or.cz/minetest_pep.git
 [submodule "worldmods/pipeworks"]
 	path = worldmods/pipeworks
 	url = https://github.com/randomei/pipeworks.git
@@ -439,3 +436,27 @@
 [submodule "worldmods/spawn_command"]
 	path = worldmods/spawn_command
 	url = https://github.com/minetest-mods/spawn_command.git
+[submodule "worldmods/carpets"]
+	path = worldmods/carpets
+	url = https://github.com/randomei/carpets.git
+[submodule "worldmods/edit"]
+	path = worldmods/edit
+	url = https://github.com/minetest-mods/edit.git
+[submodule "worldmods/gadgets_modpack"]
+	path = worldmods/gadgets_modpack
+	url = https://github.com/randomei/gadgets_modpack.git
+[submodule "worldmods/minetest_mana"]
+	path = worldmods/minetest_mana
+	url = https://codeberg.org/randomei/minetest_mana.git
+[submodule "worldmods/entities_protection"]
+	path = worldmods/entities_protection
+	url = https://github.com/JamesClarke7283/entities_protection.git
+[submodule "worldmods/castle_masonry"]
+	path = worldmods/castle_masonry
+	url = https://github.com/randomei/castle_masonry.git
+[submodule "worldmods/kor_fruit_trees"]
+	path = worldmods/kor_fruit_trees
+	url = https://github.com/korinrider/kor_fruit_trees.git
+[submodule "worldmods/advtrains_techage"]
+	path = worldmods/advtrains_techage
+	url = https://notabug.org/advtrains/advtrains_techage.git
