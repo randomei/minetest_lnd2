@@ -28,3 +28,6 @@ yl_speak_up_npc_list.data
 ranks.json
 yl_speak_up_player_vars.json
 mod_storage.sqlite-journal
+bell_positions.data
+christmas_bell_positions.data
+mana.mt
