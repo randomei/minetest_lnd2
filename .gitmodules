@@ -29,7 +29,7 @@
 	url = https://gitlab.com/rubenwardy/awards.git
 [submodule "bakedclay"]
 	path = worldmods/bakedclay
-	url = https://github.com/randomei/bakedclay.git
+	url = https://codeberg.org/tenplus1/bakedclay.git
 [submodule "basic_materials"]
 	path = worldmods/basic_materials
 	url = https://github.com/randomei/basic_materials.git
@@ -45,10 +45,10 @@
 	branch = main
 [submodule "bell"]
 	path = worldmods/bell
-	url = https://github.com/FaceDeer/bell.git
+	url = https://github.com/randomei/bell.git
 [submodule "bike"]
 	path = worldmods/bike
-	url = https://gitlab.com/randomei/bike.git
+	url = https://gitlab.com/h2mm/bike.git
 [submodule "minetest_biomeinfo"]
 	path = worldmods/minetest_biomeinfo
 	url = https://codeberg.org/Wuzzy/minetest_biomeinfo.git
@@ -69,7 +69,7 @@
 	url = https://github.com/mt-mods/controls.git
 [submodule "cottages"]
 	path = worldmods/cottages
-	url = https://github.com/randomei/cottages.git
+	url = https://github.com/C-C-Minetest-Server/cottages.git
 [submodule "currency"]
 	path = worldmods/currency
 	url = https://github.com/randomei/currency.git
@@ -84,13 +84,13 @@
 	url = https://github.com/randomei/dfcaverns.git
 [submodule "digilines"]
 	path = worldmods/digilines
-	url = https://github.com/randomei/digilines.git
+	url = https://github.com/minetest-mods/digilines.git
 [submodule "digtron"]
 	path = worldmods/digtron
 	url = https://github.com/randomei/digtron.git
 [submodule "drawers"]
 	path = worldmods/drawers
-	url = https://github.com/randomei/drawers.git
+	url = https://github.com/minetest-mods/drawers.git
 [submodule "drinks"]
 	path = worldmods/drinks
 	url = https://github.com/minetest-mods/drinks.git
@@ -174,7 +174,7 @@
 	url = https://github.com/mt-historical/magic_materials.git
 [submodule "worldmods/mesecons"]
 	path = worldmods/mesecons
-	url = https://github.com/randomei/mesecons.git
+	url = https://github.com/minetest-mods/mesecons
 [submodule "worldmods/mesecraft_christmas"]
 	path = worldmods/mesecraft_christmas
 	url = https://github.com/randomei/mesecraft_christmas.git
@@ -231,7 +231,7 @@
 	url = https://github.com/mt-mods/moretrees.git
 [submodule "worldmods/multidecor"]
 	path = worldmods/multidecor
-	url = https://github.com/randomei/multidecor.git
+	url = https://github.com/Andrey2470T/multidecor.git
 [submodule "worldmods/nativevillages"]
 	path = worldmods/nativevillages
 	url = https://github.com/Skandarella/nativevillages.git
@@ -300,7 +300,7 @@
 	url = https://github.com/SamMatzko/minetest-subways.git
 [submodule "worldmods/tga_encoder"]
 	path = worldmods/tga_encoder
-	url = https://git.minetest.land/erlehmann/tga_encoder.git
+	url = https://git.minetest.land/erle/tga_encoder.git/
 [submodule "worldmods/minetest_tsm_railcorridors"]
 	path = worldmods/minetest_tsm_railcorridors
 	url = https://codeberg.org/Wuzzy/minetest_tsm_railcorridors.git
@@ -318,7 +318,7 @@
 	url = https://github.com/adikalon/tt_food.git
 [submodule "worldmods/unicode_text"]
 	path = worldmods/unicode_text
-	url = https://git.minetest.land/erlehmann/unicode_text.git
+	url = https://git.minetest.land/erle/unicode_text.git/
 [submodule "worldmods/unifieddyes"]
 	path = worldmods/unifieddyes
 	url = https://github.com/mt-mods/unifieddyes.git
@@ -372,7 +372,7 @@
 	url = https://github.com/mt-mods/unified_inventory_plus.git
 [submodule "worldmods/morelights_dim"]
 	path = worldmods/morelights_dim
-	url = https://github.com/randomei/morelights_dim.git
+	url = https://invent.kde.org/davidhurka/doxy_morelights_dim.git
 [submodule "worldmods/skills"]
 	path = worldmods/skills
 	url = https://gitlab.com/zughy-friends-minetest/skills.git
@@ -456,7 +456,7 @@
 	url = https://github.com/randomei/castle_masonry.git
 [submodule "worldmods/kor_fruit_trees"]
 	path = worldmods/kor_fruit_trees
-	url = https://github.com/korinrider/kor_fruit_trees.git
+	url = https://github.com/randomei/kor_fruit_trees.git
 [submodule "worldmods/advtrains_techage"]
 	path = worldmods/advtrains_techage
 	url = https://notabug.org/advtrains/advtrains_techage.git
@@ -466,3 +466,21 @@
 [submodule "worldmods/sum_airship"]
 	path = worldmods/sum_airship
 	url = https://codeberg.org/SumianVoice/sum_airship.git
+[submodule "worldmods/minetest_findbiome"]
+	path = worldmods/minetest_findbiome
+	url = https://codeberg.org/Wuzzy/minetest_findbiome.git
+[submodule "worldmods/tune_jit"]
+	path = worldmods/tune_jit
+	url = https://codeberg.org/rudzik8/tune_jit.git
+[submodule "worldmods/dungeonsplus"]
+	path = worldmods/dungeonsplus
+	url = https://github.com/EmptyStar/dungeonsplus.git
+[submodule "worldmods/areas_helper_tools"]
+	path = worldmods/areas_helper_tools
+	url = https://gitlab.com/rangeTonic/areas_helper_tools.git
+[submodule "worldmods/x_spawners_api"]
+	path = worldmods/x_spawners_api
+	url = https://bitbucket.org/minetest_gamers/x_spawners_api.git
+[submodule "worldmods/x_spawners_mobs"]
+	path = worldmods/x_spawners_mobs
+	url = https://bitbucket.org/minetest_gamers/x_spawners_mobs.git
